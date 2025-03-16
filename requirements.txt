@@ -1,1 +1,9 @@
 streamlit
+requests
+pandas
+numpy
+xgboost
+plotly
+scikit-learn
+textblob
+ta
